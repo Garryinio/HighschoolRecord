@@ -31,7 +31,7 @@ You can find the .mdb file at ProiectMPP\bin\Debug\ProiectMPP.mdb
 Other pics:
 
 ![image](https://user-images.githubusercontent.com/73346539/189237694-202439e6-4c00-4b1f-8cbc-bfc9ec75ab38.png)
-![image](https://user-images.githubusercontent.com/73346539/189237705-46b7a6f5-6892-43db-9b44-566f648642b1.png)
+![image](https://user-images.githubusercontent.com/73346539/189238525-f44d0e08-8c54-4d7b-a0b5-71e91a955564.png)
 ![image](https://user-images.githubusercontent.com/73346539/189237736-03e2cb05-8b3c-40c8-9ab2-eafafaefc00e.png)
 ![image](https://user-images.githubusercontent.com/73346539/189237758-ac18bb70-c56f-43e4-b6da-f5f6216a8de1.png)
 
