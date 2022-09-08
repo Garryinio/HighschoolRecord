@@ -39,7 +39,7 @@ Other pics:
 
 <b>To run:</b>
 
-Open the project (.sln) in Visual Studio.
+Open the project (.sln) in Visual Studio or use .exe file at ProiectMPP\bin\Debug\ProiectMPP.exe
 ----------------------------------------------------------------------------------------------------------------------------------------
 <b>To Login:</b>
 
